@@ -1,11 +1,11 @@
 # Welcome to MAK {Byte}! 
 ### Pioneering Excellence in Every Byte
 
-**Makbyte** is a SaaS-based company driven to deliver cutting-edge solutions and seamless user experiences. Since our founding on October 14, 2023, by the **makbyte-core team**, we’ve been committed to developing tools that empower businesses and streamline complex processes. Our projects span multiple domains, leveraging AI, secure backend frameworks, and responsive front-end applications to provide holistic solutions.
+**MAK {Byte}** is a SaaS-based company driven to deliver cutting-edge solutions and seamless user experiences. Since our founding on October 14, 2023, by the **makbyte-core team**, we’ve been committed to developing tools that empower businesses and streamline complex processes. Our projects span multiple domains, leveraging AI, secure backend frameworks, and responsive front-end applications to provide holistic solutions.
 
 ## 📈 Our Mission
 
-At MakByte.io, we aim to Elevate Your Digital Future. We believe in leveraging technology to empower businesses, foster growth, and leave a lasting impact on the digital landscape.
+At MAK {Byte}, we aim to Elevate Your Digital Future. We believe in leveraging technology to empower businesses, foster growth, and leave a lasting impact on the digital landscape.
 
 ---
 
