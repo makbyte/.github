@@ -11,7 +11,7 @@ At MAK {Byte}, we aim to Elevate Your Digital Future. We believe in leveraging t
 
 ## 🌟 Featured Projects
 
--**makbyte**
+- **makbyte**
 
   **Description:** Our official company repository featuring Makbyte's website and branding. We showcase our expertise here in web technologies and cloud integration.  
   **Tech Stack:** PostScript  
